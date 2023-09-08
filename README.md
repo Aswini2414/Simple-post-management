@@ -69,16 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-height: 21rem;
-  @media (max-width: 125rem) {
-    height: 24rem;
-  }
-  @media (max-width: 120rem) {
-    height: 20rem;
-  }
-  @media (max-width: 81.5rem) {
-    height: 24rem;
-  }
-  @media (max-width: 70rem) {
-    height: 26rem;
-  }
+
